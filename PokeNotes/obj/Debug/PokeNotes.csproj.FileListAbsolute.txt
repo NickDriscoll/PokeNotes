@@ -1,0 +1,9 @@
+c:\users\nick\documents\visual studio 2013\Projects\PokeNotes\PokeNotes\bin\Debug\PokeNotes.exe.config
+c:\users\nick\documents\visual studio 2013\Projects\PokeNotes\PokeNotes\bin\Debug\PokeNotes.exe
+c:\users\nick\documents\visual studio 2013\Projects\PokeNotes\PokeNotes\bin\Debug\PokeNotes.pdb
+c:\users\nick\documents\visual studio 2013\Projects\PokeNotes\PokeNotes\obj\Debug\PokeNotes.csprojResolveAssemblyReference.cache
+c:\users\nick\documents\visual studio 2013\Projects\PokeNotes\PokeNotes\obj\Debug\PokeNotes.Form1.resources
+c:\users\nick\documents\visual studio 2013\Projects\PokeNotes\PokeNotes\obj\Debug\PokeNotes.Properties.Resources.resources
+c:\users\nick\documents\visual studio 2013\Projects\PokeNotes\PokeNotes\obj\Debug\PokeNotes.csproj.GenerateResource.Cache
+c:\users\nick\documents\visual studio 2013\Projects\PokeNotes\PokeNotes\obj\Debug\PokeNotes.exe
+c:\users\nick\documents\visual studio 2013\Projects\PokeNotes\PokeNotes\obj\Debug\PokeNotes.pdb
